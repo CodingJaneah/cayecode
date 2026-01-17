@@ -131,6 +131,10 @@ li a, .dropbtn {
   flex: 5;
 }
 
+main {
+  z-index: 3000;
+}
+
 
 
 
