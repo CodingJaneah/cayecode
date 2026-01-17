@@ -6,7 +6,10 @@ list-style-type: none;
     
 
 header {
-position: relative;
+position: fixed;
+bottom: 0;
+right: 0;
+left: 0;
 width: 100%;
 }
 
@@ -51,5 +54,6 @@ nav li a {
 text-decoration: none;
 color: white;
 }
+
 
 
