@@ -4,10 +4,6 @@
   list-style-type: none;
 }
 
-body {
-  height: 3000vh;
-}
-
 header {
   position: fixed;
   top: 0;
@@ -131,9 +127,6 @@ li a, .dropbtn {
   flex: 5;
 }
 
-main {
-  z-index: 3000;
-}
 
 
 
